@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tmofokengo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Web Development
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Software Engineering with ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me teboho.mofokeng@hotmail.com
 
